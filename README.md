@@ -4,7 +4,7 @@ End-to-end analysis of 3,900 retail purchases using Python, PostgreSQL and Power
 
 🎯 Business Problem
 
-A retail company has seen shifting purchase patterns across demographics and product categories. The goal: how can customer shopping data be used to identify trends, improve engagement, and optimize marketing and product strategy? See 📄 Business Problem Document.
+A retail company has seen shifting purchase patterns across demographics and product categories. The goal: how can customer shopping data be used to identify trends, improve engagement, and optimize marketing and product strategy? See Business Problem Document.pdf
 
 🧰 Tech Stack
 Stage	Tool
